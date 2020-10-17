@@ -1,0 +1,19 @@
+{
+  "name": "afrilearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omogbemeh/afrilearn.git"
+  },
+  "author": "Omogbemeh Praise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omogbemeh/afrilearn/issues"
+  },
+  "homepage": "https://github.com/omogbemeh/afrilearn#readme"
+}
